@@ -6,7 +6,7 @@ import Feature from './components/Feature'
 import Invest from './components/Invest'
 import Meet from './components/Meet'
 import Security from './components/Security'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 
 
