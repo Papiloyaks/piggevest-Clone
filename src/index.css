@@ -1,0 +1,200 @@
+@media screen and (max-width: 475px){
+  .navBtn1 {
+    margin: 20px 0px 20px 0px;
+  }
+  .bet {
+    height: 200vh;
+    padding: 12vw 0px 0px 0px;
+    gap: 20px;
+  }
+  .bet1 {
+    width: 100%;
+    padding: 0px 20px 0px 20px;
+    text-align: center;
+  }
+  .betP {
+    font-size: 20px;
+  }
+  .betBtn1, .betBtn2 {
+    font-size: 18px;
+    height: 8vh;
+    width: 40vw;
+  }
+  .bet2 {
+    padding: 0px 0px 0px 0vw;
+  }
+  .betImg2 {
+    margin: 37px 0px 0px -85vw;
+  }
+  .betImg3, .betImg4 {
+    display: none;
+  }
+  .sec {
+    height: 65vh;
+  }
+  .sec1 {
+    width: 100%;
+  }
+  .secImg {
+    float: none;
+    margin: 50px 40px 0px 35vw;
+  }
+  .sec2 {
+    text-align: center;
+    width: 100%;
+  }
+  .secH4 {
+    margin-bottom: 20px;
+  }
+  .cardContain {
+    height: 270vh;
+    gap: 20px;
+    padding: 10px 0px 0px 30px;
+  }
+  .card1 {
+    width: 90%;
+  }
+  .card1-1, .card1-2 {
+    text-align: center;
+    width: 90%;
+    padding-right: 0px;
+  }
+  .cardBtn {
+    width: 30vw;
+  }
+  .meet {
+    height: 96vh;
+  }
+  .meet1 {
+    width: 100vw;
+  }
+  .meetH2 {
+    margin-top: 100px;
+  }
+  .meet2 {
+    width: 100%;
+  }
+  .meetImg2 {
+    width: 100%;
+  }
+  .comment1 {
+    width: 100%;
+    padding-right: 0px;
+    text-align: center;
+  }
+  .comBtn1, .comBtn2 {
+    font-size: 16px;
+    width: 35vw;
+  }
+  .feature {
+    height: 30vh;
+  }
+  .feat1 {
+    width: 100%;
+  }
+  .feat2 {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 675px){
+  .navBtn1 {
+    margin: 20px 0px 20px 0px;
+  }
+  .bet {
+    height: 200vh;
+    padding: 12vw 0px 0px 0px;
+    gap: 20px;
+  }
+  .bet1 {
+    width: 100%;
+    padding: 0px 20px 0px 20px;
+    text-align: center;
+  }
+  .betP {
+    font-size: 20px;
+  }
+  .betBtn1, .betBtn2 {
+    font-size: 18px;
+    height: 8vh;
+    width: 40vw;
+  }
+  .bet2 {
+    width: 100%;
+    padding: 30px 0px 0px 20vw;
+  }
+  .betImg2 {
+    margin: 37px 0px 0px -60vw;
+  }
+  .betImg3, .betImg4 {
+    display: none;
+  }
+  .sec {
+    height: 75vh;
+  }
+  .sec1 {
+    width: 100%;
+    height: 40vh;
+  }
+  .secImg {
+    float: none;
+    margin: 20px 40px 0px 35vw;
+  }
+  .sec2 {
+    text-align: center;
+    width: 100%;
+  }
+  .secH4 {
+    margin-bottom: 20px;
+  }
+  .cardContain {
+    height: 300vh;
+    gap: 20px;
+    padding: 10px 0px 0px 30px;
+  }
+  .card1 {
+    width: 90%;
+    height: 60vh;
+  }
+  .card1-1, .card1-2 {
+    text-align: center;
+    width: 90%;
+    padding-right: 0px;
+  }
+  .cardBtn {
+    width: 30vw;
+  }
+  .meet {
+    height: 96vh;
+  }
+  .meet1 {
+    width: 100vw;
+  }
+  .meetH2 {
+    margin-top: 100px;
+  }
+  .meet2 {
+    width: 100%;
+  }
+  .meetImg2 {
+    width: 100%;
+  }
+  .comment1 {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+  }
+  .comBtn1, .comBtn2 {
+    font-size: 16px;
+    width: 35vw;
+  }
+  .feature {
+    height: 30vh;
+  }
+  .feat1 {
+    width: 100%;
+  }
+  .feat2 {
+    width: 100%;
+  }
+}

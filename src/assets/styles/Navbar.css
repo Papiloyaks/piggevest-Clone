@@ -1,0 +1,34 @@
+.navImg {
+    margin-left: 70px;
+}
+#navA {
+    color: #0C1825;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.navBtn1, .navBtn2 {
+    border: 1px solid #0C1825;
+    height: 8vh;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.navBtn1 {
+    color: #0C1825;
+    background-color: white;
+    margin: 0px 10px 0px 200px;
+}
+.navBtn1:hover {
+    border: 1px solid #0D60D8;
+    color: #0D60D8;
+}
+.navBtn2 {
+    background-color: #0C1825;
+    color: white;
+}
+.navBtn2:hover {
+    border: 1px solid #0D60D8;
+    background-color: #0D60D8;
+}

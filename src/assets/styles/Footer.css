@@ -1,0 +1,50 @@
+.footer {
+    border: 1px solid;
+    height: 80vh;
+    padding-top: 80px;
+}
+.footer1, .footer2 {
+    height: 30vh;
+}
+.footer1 {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 100px;
+}
+.foot1 {
+    width: 15vw;
+}
+.foot1-1, .foot1-2 {
+    width: 18.5vw;
+}
+.foot1-2 {
+    text-align: right;
+    padding-top: 20px;
+}
+.foot1A {
+    display: block;
+    text-decoration: none;
+}
+.foot1A:hover {
+    color: #5B60DA;
+}
+.foot1P {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.foot1A {
+    color: black;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.foot2P1 {
+    font-size: 14px;
+    width: 58vw;
+    text-align: center;
+    margin: 40px 0px 30px 22vw;
+}
+.foot2P2 {
+    text-align: center;
+    font-size: 14px;
+    color: #5B60DA;
+}

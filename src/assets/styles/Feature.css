@@ -1,0 +1,20 @@
+.feature {
+    border: 1px solid purple;
+    height: 25vh;
+    background-color: #F9F9F9;
+    display: flex;
+    flex-wrap: wrap;
+}
+.feat1 {
+    width: 42vw;
+}
+.featH4 {
+    font-size: 34px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.feat2 {
+    border: 1px solid red;
+    width: 40vw;
+}

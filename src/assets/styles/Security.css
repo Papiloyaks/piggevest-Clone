@@ -1,0 +1,35 @@
+.sec {
+    height: 55vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.sec1 {
+    height: 30vh;
+    width: 30vw;
+}
+.secImg {
+    max-width: 27%;
+    float: right;
+    margin: 10px 40px 0px 0px;
+}
+.sec2 {
+    height: 30vh;
+    width: 50vw;
+}
+.secH4 {
+    font-size: 32px;
+    color: black;
+}
+.secP {
+    margin-bottom: 20px;
+}
+.secA {
+    font-weight: 600;
+    font-size: 18px;
+    text-decoration: none;
+}
+.secA:hover {
+    border-bottom: 5px solid #D0E2FC;
+}
